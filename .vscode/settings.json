@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "init_map.h": "c",
+        "sdl_ttf.h": "c",
+        "score.h": "c",
+        "cmath": "c",
+        "cstdlib": "c",
+        "audio.h": "c",
+        "random": "c",
+        "sdl_mixer.h": "c",
+        "sdl_audio.h": "c",
+        "system_error": "c"
+    }
+}
