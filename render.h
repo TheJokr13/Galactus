@@ -9,8 +9,8 @@
 #define R_P_S SDL_RENDERER_PRESENTVSYNC
 
 //Taille de la fen�tre
-#define SW 800
-#define SH 600
+#define SW 1920
+#define SH 1080
 
 typedef struct render_info {
     SDL_Window* window;
